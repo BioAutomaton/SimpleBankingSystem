@@ -1,0 +1,26 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    hero_damage = 100
+
+
+    def double_damage():
+        pass
+
+
+    def disarmed():
+        pass
+
+
+    def power_potion():
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9900#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9900#comment">JetBrains
+    Academy</a></html>
+  time: Mon, 02 Nov 2020 14:02:16 UTC
+record: -1
